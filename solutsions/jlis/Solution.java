@@ -1,4 +1,4 @@
-package algorithm2020.solutsions.jlis;
+package solutsions.jlis;
 
 import java.util.*;
 

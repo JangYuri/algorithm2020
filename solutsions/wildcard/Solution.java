@@ -1,4 +1,4 @@
-package algorithm2020.solutsions.wildcard;
+package solutsions.wildcard;
 
 import java.util.*;
 
